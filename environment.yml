@@ -15,6 +15,7 @@ dependencies:
   - matplotlib=3.8  # beautiful plots. See tutorial tools_matplotlib.ipynb
   - nbdime=3.2  # optional tool to diff Jupyter notebooks
   - nltk=3.8  # optionally used in chapter 3, exercise 4
+  - notebook
   - numexpr=2.8  # used only in the Pandas tutorial for numerical expressions
   - numpy=1.26  # Powerful n-dimensional arrays and numerical computing tools
   - pandas=2.1  # data analysis and manipulation tool
